@@ -13,3 +13,7 @@ Future Changes
 =====================
 - Add more animations to AnimationHandler class
 - Posibility to reset the queue
+
+Copyright and license
+=====================
+Code copyright 2014 CodigoDelSur. Code released under the [MIT license](LICENSE).
